@@ -22,10 +22,13 @@ dependencies {
 ```
 ## Screenshots
 
-<img src="https://github.com/SKProtech/FancyToast/blob/master/Screenshot_20210504-132720.png"/>
-<img src="https://github.com/SKProtech/FancyToast/blob/master/Screenshot_20210504-132714.png"/>
-<img src="https://github.com/SKProtech/FancyToast/blob/master/Screenshot_20210504-132709.png"/>
-<img src="https://github.com/SKProtech/FancyToast/blob/master/Screenshot_20210504-132648.png"/>
+<div>
+  <img src="https://github.com/SKProtech/FancyToast/blob/master/Screenshot_20210504-132720.png" width="250"/>
+  <img src="https://github.com/SKProtech/FancyToast/blob/master/Screenshot_20210504-132714.png" width="250"/>
+  <img src="https://github.com/SKProtech/FancyToast/blob/master/Screenshot_20210504-132709.png" width="250"/>
+  <img src="https://github.com/SKProtech/FancyToast/blob/master/Screenshot_20210504-132648.png" width="250"/>
+</div>
+
 
 
 ## Usage
